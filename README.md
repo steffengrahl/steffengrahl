@@ -1,3 +1,5 @@
+About me
+===
 👋 Hi, I’m @steffengrahl<br>
 👀 I’m interested in web development with <abbr title="Linux Apache MySQL PHP">LAMP</abbr> stack<br>
 🌱 I’m currently learning how to handle people to become a tech lead at work<br>
