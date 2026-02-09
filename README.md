@@ -1,24 +1,51 @@
-About me
-===
-👋 Hi, I’m @steffengrahl<br>
-👀 I’m interested in web development with <abbr title="Linux Apache MySQL PHP">LAMP</abbr> stack<br>
-🌱 I’m currently learning C# and .NET for my new job<br>
-💞️ I’m looking to collaborate on modernizing plain PHP applications<br>
-📫 You can reach me on [LinkedIn](https://linkedin.com/in/steffengrahl) if you wanna hire me or contact me here on [GitHub](https://github.com/steffengrahl) if you need help with your legacy PHP application<br>
+# Hi, I’m Steffen Grahl 👋
 
-Skills
+**Senior PHP & Symfony Developer | Backend Specialist | LAMP Stack Enthusiast**  
+
+🌱 Currently exploring **C# & .NET** in my new role  
+💞️ Interested in modernizing **legacy PHP applications** and scalable backend solutions  
+📫 Reach me via [LinkedIn](https://linkedin.com/in/steffengrahl) for professional inquiries or on [GitHub](https://github.com/steffengrahl) for technical collaboration  
+
 ---
 
-**very good:**<br>
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) ![semantic HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+## 🛠 Skills
 
-**good:**<br>
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white) ![Symfony](https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=Symfony&logoColor=white) ![PHPStorm](http://img.shields.io/badge/-PHPStorm-181717?style=for-the-badge&logo=phpstorm&logoColor=white) ![git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+**Expert:**  
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) 
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) 
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 
-**good enough:**<br>
-![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white) ![composer](https://img.shields.io/badge/Composer-885630?style=for-the-badge&logo=Composer&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+**Experienced:**  
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white) 
+![Symfony](https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=Symfony&logoColor=white) 
+![PHPStorm](http://img.shields.io/badge/-PHPStorm-181717?style=for-the-badge&logo=phpstorm&logoColor=white) 
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=steffengrahl)
+**Familiar:**  
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white) 
+![Composer](https://img.shields.io/badge/Composer-885630?style=for-the-badge&logo=Composer&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) 
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+---
+
+## 📊 GitHub Stats
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=steffengrahl&layout=compact&hide=html,css,markdown)
+
+---
+
+<!--
+## 📂 Selected Projects
+
+- **Legacy PHP Modernization:** Refactoring and testing of complex PHP/Symfony apps for maintainability and scalability.  
+- **E-Commerce Integration:** Implemented APIs and data pipelines for online platforms.  
+- **Powercloud Extensions:** Backend enhancements for SaaS platform handling energy consumption and billing data.  
+
+---
+-->
+
+
 
 <!---
 badges from https://github.com/alexandresanlim/Badges4-README.md-Profile
