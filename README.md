@@ -31,7 +31,7 @@
 ---
 
 ## 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=steffengrahl&layout=compact&hide=html,css,markdown)
+![](https://github-readme-stats-mu.vercel.app/api/top-langs/?username=steffengrahl&layout=compact&hide=html,css,markdown)
 
 ---
 
