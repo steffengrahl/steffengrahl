@@ -2,7 +2,7 @@
 
 **Senior PHP & Symfony Developer | Backend Specialist | LAMP Stack Enthusiast**  
 
-🌱 Currently exploring the use of **AI** for marketing, SEO & code generation
+🌱 Currently exploring the use of **AI** for marketing, SEO & code generation  
 💞️ Interested in modernizing **legacy PHP applications** and scalable backend solutions  
 📫 Reach me via [LinkedIn](https://linkedin.com/in/steffengrahl) for professional inquiries or on [GitHub](https://github.com/steffengrahl) for technical collaboration  
 
