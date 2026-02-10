@@ -31,7 +31,30 @@
 ---
 
 ## 📊 GitHub Stats
-![](https://github-readme-stats-fast-mu.vercel.app/api/top-langs/?username=steffengrahl&layout=compact&hide=html,css,markdown)
+
+<picture>
+  <source
+    srcset="https://github-readme-stats-fast-mu.vercel.app/api?username=steffengrahl&hide_rank=true&theme=transparent&show_icons=true&hide=stars&hide_border=true&icon_color=E67E22&title_color=E67E22&text_color=e5e5e5&card_width=320"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats-fast-mu.vercel.app/api?username=steffengrahl&hide_rank=true&theme=transparent&show_icons=true&hide=stars&hide_border=true&icon_color=E67E22&title_color=E67E22&text_color=222222&card_width=320"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats-fast-mu.vercel.app/api?username=steffengrahl&hide_rank=true&show_icons=true&hide=stars&hide_border=true&icon_color=E67E22&title_color=E67E22&text_color=222222&card_width=320" />
+</picture>
+
+<picture>
+  <source
+    srcset="https://github-readme-stats-fast-mu.vercel.app/api/top-langs/?username=steffengrahl&hide=html%2Chack%2Cgherkin%2Ccss%2Cmarkdown&title_color=E67E22&layout=compact&card_width=320&hide_border=true&theme=transparent&text_color=e5e5e5"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats-fast-mu.vercel.app/api/top-langs/?username=steffengrahl&hide=html%2Chack%2Cgherkin%2Ccss%2Cmarkdown&title_color=E67E22&layout=compact&card_width=320&hide_border=true&theme=transparent&text_color=222222"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats-fast-mu.vercel.app/api/top-langs/?username=steffengrahl&hide=html%2Chack%2Cgherkin%2Ccss%2Cmarkdown&title_color=E67E22&layout=compact&card_width=320&hide_border=true&theme=transparent&text_color=222222" />
+</picture>
 
 ---
 
