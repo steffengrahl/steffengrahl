@@ -4,6 +4,7 @@
 
 🌱 Currently exploring the use of **AI** for marketing, SEO & code generation  
 💞️ Interested in modernizing **legacy PHP applications** and scalable backend solutions  
+👨‍💻 Contributing to OSS like [audit-class-generator](https://github.com/patrickmaynard/audit-class-generator)
 📫 Reach me via [LinkedIn](https://linkedin.com/in/steffengrahl) for professional inquiries or on [GitHub](https://github.com/steffengrahl) for technical collaboration  
 
 ---
